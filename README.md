@@ -4,6 +4,7 @@ Overview
 Product Spec
 Wireframes
 Schema
+BRAINTSTORMS 1 & 2 
 
 # Overview
 Description
@@ -16,7 +17,7 @@ UniSports is an app where students who want to play pickup sports can post or fi
 Category: [e.g., Social, Entertainment, Education] 
 Sports Social Network
 Mobile: [Is it a mobile application only?]
-Yes
+Mobile Application Only
 Story: [What story does your app tell?]
 Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
 Market: [Target audience for the app] 
@@ -86,6 +87,7 @@ Feed leads to Create
 
 
 
+
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 ## Schema
@@ -103,3 +105,76 @@ Networking
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
+# BRAINSTORM 1
+Favorite Apps:
+
+1. Pokemon Go
+    * Pokemon sprites are well done.
+    * Battle animations are extremely detailed.
+
+2. Clash of Clans
+    * Character designs are great.
+    * I like that you can customize your own base.
+    * Quick search time for battles.
+
+3. Tik Tok
+    * Can skip ads.
+    * Large variety of content .
+    * Love being able to repost videos and see reposted videos of friends.
+
+4. Real
+    * Can check live sports stats
+    * Users are able to live comment on players' performances during the match
+
+5. Bumble
+    * Users can choose between different app versions based on preference(Business, Dating, Friendship)
+    * Users can mutually match with other users and converse.
+
+6. Latch
+    * Users are able to unlock doors from their phone
+    * Users are able to give access to doors for time periods 
+
+7. Weather App
+    * Users are able to check live weather and future forecasts 
+    * Users can view weather in current location and multiple other locations
+    * Users get practical information about the weather situation
+
+8. Google Maps
+    * Users can get quick and direct directions to desired location
+    * Users can view metro/bus routes and expected time routes
+
+9. Asos
+    * Users can view 1,000s of articles of clothing
+    * Weekly discount codes are given to users
+    * Users can create multiple lists of clothes based on their preferences
+    * Users get suggested closets based on purchase history
+
+10. Shop
+    * Users get quick and accurate shipping updates about their packages
+    * Users get suggested products based on purchasing habits
+
+11. InstaCart
+    * Users get access to several stores for browsing products.
+    * Users can get products delivered to them quickly from these stores
+   
+
+# BRAINSTORM 2
+App Idea 1: CampusConnector
+
+What: CampusConnector is an app designed to help connect students with events that're happening around campus.
+
+Who: The app is targeted towards college students who want to participate in more campus events.
+
+Why: We are building this app to give students a chance to find events that're happening near their campus but also give them the platform to post events that they want to host.
+
+Challenges: Potential challenges include mapping post by college.
+
+App Idea 2: NextGrub
+What: NextGrub is an app designed for food enthusiasts to find and share their experiences with restaurants and other food spots. It is like a gamified version of OpenTable with the style of BeReal. Users are tasked to submit a photo of themselves trying a new food spot each week and share it to a network of friends.
+
+Who: The app is targeted to people who like to blog their food experiences and those who are willing to try new food spots. 
+
+Why: NextGrub allows users to breakthrough the "gatekeeping" of great food spots. 
+
+Challenges: Apps like Yelp and OpenTable have similar ideas and a solid user base that may be hard to win over.
+
