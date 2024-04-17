@@ -74,13 +74,17 @@ Leads to [Next Screen]
 [Another Screen Name]
 Leads to [Another Screen]
 
+
+
 [Add picture of your hand sketched wireframes in this section]
 SignUp Leads to LogIn
 Login Leads to Feed
 Feed leads to Create
 # Wireframes
+![uniWireframes](https://hackmd.io/_uploads/r1auLF6gA.jpg)
 
-![wireframesUniSports](https://hackmd.io/_uploads/rJm97FTe0.jpg)
+
+
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
