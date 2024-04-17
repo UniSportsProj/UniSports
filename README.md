@@ -8,7 +8,7 @@ Schema
 # Overview
 Description
 [Provide a brief description of your app, its purpose, and functionality.]
-UniSports is an app where students who want to play pickup sports can post or find games happening now or near in the future. Students will sign up and will have access to a network of other students who are looking to play quick pick up games or fun tournaments.
+UniSports is an app where students who want to play pickup sports can post or find games happening now or near in the future. Students will sign up and will have access to a network of other students who are looking to play quick pick up games or fun tournaments!
 
 # App Evaluation
 [Evaluation of your app across the following attributes]
@@ -79,6 +79,9 @@ SignUp Leads to LogIn
 Login Leads to Feed
 Feed leads to Create
 # Wireframes
+
+![wireframesUniSports](https://hackmd.io/_uploads/rJm97FTe0.jpg)
+
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 ## Schema
