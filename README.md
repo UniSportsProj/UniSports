@@ -14,18 +14,18 @@ Description
 # App Evaluation
 [Evaluation of your app across the following attributes]
 
-Category: [e.g., Social, Entertainment, Education] 
-- Sports Social Network
-Mobile: [Is it a mobile application only?]
+- Category: [e.g., Social, Entertainment, Education] 
+    - Sports Social Network
+- Mobile: [Is it a mobile application only?]
     - Mobile Application Only
-Story: [What story does your app tell?]
-- Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
-Market: [Target audience for the app] 
-- University Students in relatively similar geographic area.
-Habit: [Is it a daily use app or occasional use?]
-- Depending on the sports habits of our users, the use will vary. Very active students may want to play daily and hence use the product daily, but more casual sports players will use this on a less frequent basis.
-Scope: [Is it a broad or narrow app in terms of features?]
-- UniSports has a relatively narrow scope. The app will have thefunctionality that allows users to post and find current and upcoming events.
+- Story: [What story does your app tell?]
+    - Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
+- Market: [Target audience for the app] 
+    - University Students in relatively similar geographic area.
+- Habit: [Is it a daily use app or occasional use?]
+    - Depending on the sports habits of our users, the use will vary. Very active students may want to play daily and hence use the product daily, but more casual sports players will use this on a less frequent basis.
+- Scope: [Is it a broad or narrow app in terms of features?]
+    - UniSports has a relatively narrow scope. The app will have thefunctionality that allows users to post and find current and upcoming events.
 
 # Product Spec
 # 1. User Stories (Required and Optional)
