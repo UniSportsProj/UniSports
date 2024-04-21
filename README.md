@@ -1,10 +1,10 @@
 # **UniSports**
 # Table of Contents
-Overview
-Product Spec
-Wireframes
-Schema
-BRAINTSTORMS 1 & 2 
+- Overview
+- Product Spec
+- Wireframes
+- Schema
+- BRAINTSTORMS 1 & 2 
 
 # Overview
 Description
