@@ -17,7 +17,7 @@ Description
 Category: [e.g., Social, Entertainment, Education] 
 - Sports Social Network
 Mobile: [Is it a mobile application only?]
-- Mobile Application Only
+    - Mobile Application Only
 Story: [What story does your app tell?]
 - Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
 Market: [Target audience for the app] 
