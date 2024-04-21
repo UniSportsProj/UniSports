@@ -3,6 +3,7 @@
 - Overview
 - Product Spec
 - Wireframes
+- Video Demo
 - Schema
 - BRAINTSTORMS 1 & 2 
 
