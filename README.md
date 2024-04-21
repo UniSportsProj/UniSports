@@ -9,23 +9,23 @@
 # Overview
 Description
 [Provide a brief description of your app, its purpose, and functionality.]
-UniSports is an app where students who want to play pickup sports can post or find games happening now or near in the future. Students will sign up and will have access to a network of other students who are looking to play quick pick up games or fun tournaments!
+- UniSports is an app where students who want to play pickup sports can post or find games happening now or near in the future. Students will sign up and will have access to a network of other students who are looking to play quick pick up games or fun tournaments!
 
 # App Evaluation
 [Evaluation of your app across the following attributes]
 
 Category: [e.g., Social, Entertainment, Education] 
-Sports Social Network
+- Sports Social Network
 Mobile: [Is it a mobile application only?]
-Mobile Application Only
+- Mobile Application Only
 Story: [What story does your app tell?]
-Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
+- Students are willing to play sports but finding people to play with or where to play can pose a problem. This app serves as a central hub for students to easily express their need to play and connect with others who want to play sports with them
 Market: [Target audience for the app] 
-University Students in relatively similar geographic area.
+- University Students in relatively similar geographic area.
 Habit: [Is it a daily use app or occasional use?]
-Depending on the sports habits of our users, the use will vary. Very active students may want to play daily and hence use the product daily, but more casual sports players will use this on a less frequent basis.
+- Depending on the sports habits of our users, the use will vary. Very active students may want to play daily and hence use the product daily, but more casual sports players will use this on a less frequent basis.
 Scope: [Is it a broad or narrow app in terms of features?]
-UniSports has a relatively narrow scope. The app will have thefunctionality that allows users to post, find and comment on current and upcoming events.
+- UniSports has a relatively narrow scope. The app will have thefunctionality that allows users to post and find current and upcoming events.
 
 # Product Spec
 # 1. User Stories (Required and Optional)
@@ -64,9 +64,9 @@ UniSports has a relatively narrow scope. The app will have thefunctionality that
 [First Tab, e.g., Home Feed]
 [Second Tab, e.g., Profile] ... ... ...
 Tab Navigation (Tab to Screen)
-First Tab: SignUp/Login Screen
-Second Tab: Feed Screen
-Third Tab: Create
+- First Tab: SignUp/Login Screen
+- Second Tab: Feed Screen
+- Third Tab: Create
 
 Flow Navigation (Screen to Screen)
 
@@ -78,9 +78,9 @@ Leads to [Another Screen]
 
 
 [Add picture of your hand sketched wireframes in this section]
-SignUp Leads to LogIn
-Login Leads to Feed
-Feed leads to Create
+- SignUp Leads to LogIn
+- Login Leads to Feed
+- Feed leads to Create
 # Wireframes
 ![uniWireframes](https://hackmd.io/_uploads/r1auLF6gA.jpg)
 
