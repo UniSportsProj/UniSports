@@ -43,9 +43,9 @@ Description
 
 [User can [specific action, e.g., persist user information across working sessions]]
 ...
-- [ ]User can comment on other user posts
-- [ ]User can enter location of event
-- [ ]User can like other user posts
+- [ ] User can comment on other user posts
+- [ ] User can enter location of event
+- [ ] User can like other user posts
 - 
 # 2. Screen Archetypes
 [Screen Name, e.g., Login Screen]
