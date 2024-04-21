@@ -100,11 +100,12 @@ Leads to [Another Screen]
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/af98ddec136449adbb3a1f85b1a79689-with-play.gif">
     </a>
   </div>
-## Gif
 
+
+## GIF
 ![IMG_2291](https://github.com/UniSportsProj/UniSports/assets/97976536/a5943571-d259-46e4-be8e-6a46e15be5dc)
-
 ## Schema
+
 ## Models
 [Model Name, e.g., User]
 
