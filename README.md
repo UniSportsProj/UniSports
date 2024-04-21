@@ -34,18 +34,18 @@ Description
 
 [User can [specific action, e.g., register an account]]
 ...
-- User must be able to create an account
-- User must be able to log in/out of that account
-- User must be able to scroll through feed of other user posts
-- User must be able to post their own event
+- [x]User must be able to create an account
+- [x]User must be able to log in/out of that account
+- [x]User must be able to scroll through feed of other user posts
+- [x]User must be able to post their own event
 
 **Optional Nice-to-have Stories**
 
 [User can [specific action, e.g., persist user information across working sessions]]
 ...
-- User can comment on other user posts
-- User can enter location of event
-- User can like other user posts
+- [ ]User can comment on other user posts
+- [ ]User can enter location of event
+- [ ]User can like other user posts
 - 
 # 2. Screen Archetypes
 [Screen Name, e.g., Login Screen]
