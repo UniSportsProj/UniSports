@@ -34,10 +34,10 @@ Description
 
 [User can [specific action, e.g., register an account]]
 ...
-- [x]User must be able to create an account
-- [x]User must be able to log in/out of that account
-- [x]User must be able to scroll through feed of other user posts
-- [x]User must be able to post their own event
+- [x] User must be able to create an account
+- [x] User must be able to log in/out of that account
+- [x] User must be able to scroll through feed of other user posts
+- [x] User must be able to post their own event
 
 **Optional Nice-to-have Stories**
 
