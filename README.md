@@ -90,6 +90,15 @@ Leads to [Another Screen]
 
 [BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
+## Video Demo
+<div>
+    <a href="https://www.loom.com/share/af98ddec136449adbb3a1f85b1a79689">
+      <p>UniSports Overview 👥 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/af98ddec136449adbb3a1f85b1a79689">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/af98ddec136449adbb3a1f85b1a79689-with-play.gif">
+    </a>
+  </div>
 ## Schema
 ## Models
 [Model Name, e.g., User]
