@@ -103,7 +103,14 @@ Leads to [Another Screen]
 
 
 ## GIF
-![IMG_2291](https://github.com/UniSportsProj/UniSports/assets/97976536/a5943571-d259-46e4-be8e-6a46e15be5dc)
+<div>
+    <a href="https://www.loom.com/share/29bb34ed0c5c4de89103eeabefe40e01">
+    </a>
+    <a href="https://www.loom.com/share/29bb34ed0c5c4de89103eeabefe40e01">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/29bb34ed0c5c4de89103eeabefe40e01-with-play.gif">
+    </a>
+  </div>
+
 ## Schema
 
 ## Models
